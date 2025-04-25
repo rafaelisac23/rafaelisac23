@@ -63,10 +63,12 @@
 
 ###
 
-<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBsc2l5end5dGUwNnBxc2JmN2V1OTNubzF1em0yOHFnM3NuaHhzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GqtNlBsWoEXDy/giphy.gif"  />
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBsc2l5end5dGUwNnBxc2JmN2V1OTNubzF1em0yOHFnM3NuaHhzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GqtNlBsWoEXDy/giphy.gif"  />
 
 ###
 
 <img src="https://raw.githubusercontent.com/rafaelisac23/rafaelisac23/output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
