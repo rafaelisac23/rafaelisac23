@@ -6,7 +6,11 @@
 
 ###
 
-<p align="left">Atualmente sou um auxiliar de informática mas  tenho grandes sonhos em ser um desenvolvedor Front-End</p>
+<p align="left">Atualmente sou um auxiliar de informática mas tenho grandes sonhos em ser um desenvolvedor WEB </p>
+<ul>
+  <li>Cursando Gestão da tecnologia da informação</li>
+</ul>
+
 
 ###
 
