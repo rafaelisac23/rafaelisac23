@@ -1,69 +1,99 @@
-<h1 align="left">Olá👋!  Meu nome é Rafael e sou um desenvolvedor WEB</h1>
+<h1 align="left">Olá 👋! Eu sou o Rafael</h1>
 
 ###
 
-<p align="left">Seja bem vindo ao meu portfolio Git</p>
+<p align="left">
+  Desenvolvedor Back-end com foco em <strong>C# e .NET</strong>.
+</p>
+
+<p align="left">
+  Atualmente trabalho como Auxiliar de Informática e venho direcionando meus estudos para o desenvolvimento back-end, buscando transformar cada projeto em uma oportunidade de aprender algo novo.
+</p>
 
 ###
 
-<p align="left">Atualmente sou um auxiliar de informática mas tenho grandes sonhos em ser um desenvolvedor WEB </p>
+<h2 align="left">🚀 Atualmente</h2>
+
+<p align="left">
+  No momento, estou focado em aprofundar meus conhecimentos no ecossistema .NET e em conceitos importantes para o desenvolvimento de APIs e aplicações back-end.
+</p>
+
 <ul>
-  <li>Cursando Gestão da tecnologia da informação</li>
-  <li>Estudando React e Node.js</li>
-  
+  <li>💻 C# e .NET</li>
+  <li>🔐 Autenticação e autorização com JWT e ASP.NET Core Identity</li>
+  <li>🗄️ Entity Framework Core e bancos de dados</li>
+  <li>🏗️ Clean Architecture</li>
+  <li>🧪 Testes e integração</li>
+  <li>🐳 Docker</li>
+  <li>🐧 Linux</li>
 </ul>
 
+###
+
+<h2 align="left">📚 O que estou construindo</h2>
+
+<p align="left">
+  Atualmente estou desenvolvendo o <strong>CucaLanches</strong>, um projeto pensado para uma lanchonete da minha família.
+</p>
+
+<p align="left">
+  Mais do que apenas um projeto para colocar no GitHub, estou usando o CucaLanches para colocar em prática aquilo que estudo, enfrentando problemas reais de desenvolvimento e entendendo como cada parte de uma aplicação back-end funciona.
+</p>
+
+<p align="left">
+  A ideia é evoluir o projeto junto com meus conhecimentos e, futuramente, colocá-lo para funcionar de verdade.
+</p>
 
 ###
 
-
-
-###
-
-<h1 align="left">Conhecimento 📖</h1>
+<h2 align="left">🧠 Conhecimentos</h2>
 
 ###
 
-<br clear="both">
-
-<div align="left" style="display: flex; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="30" />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" width="35" alt="csharp logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="35" width="35" alt="dotnet logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" width="35" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" width="35" alt="docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" width="35" alt="linux logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" width="35" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" width="35" alt="github logo" />
 </div>
 
 ###
 
-<h1 align="left">Contato ☎️</h1>
+<h2 align="left">🌱 Em aprendizado</h2>
+
+<ul>
+  <li>ASP.NET Core</li>
+  <li>Entity Framework Core</li>
+  <li>ASP.NET Core Identity</li>
+  <li>JWT</li>
+  <li>Clean Architecture</li>
+  <li>Testes automatizados</li>
+  <li>Docker</li>
+  <li>Boas práticas de desenvolvimento Back-end</li>
+</ul>
 
 ###
 
-<br clear="both">
+<h2 align="left">📫 Contato</h2>
+
+###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/rafael-isac-7b2270180/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="https://www.instagram.com/rafaelisac14/#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://api.whatsapp.com/send/?phone=5512991901969&text=Ol%C3%A1%2C+vi+seu+portf%C3%B3lio+e+gostaria+de+conversar%21&type=phone_number&app_absent=0" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+
+  <a href="mailto:rafaeldarrigo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="email logo" />
   </a>
 </div>
 
 ###
 
-<h4 align="left">Ou envie um email para : rafaeldarrigo@gmail.com</h4>
-
-###
+<h2 align="left">🐍</h2>
 
 <img src="https://raw.githubusercontent.com/rafaelisac23/rafaelisac23/output/snake.svg" alt="Snake animation" />
 
